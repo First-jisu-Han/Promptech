@@ -16,29 +16,6 @@
         }
 
     </style>
-
-    <script>
-        // 1안 js
-        $('#rowTab a:first').tab('show');
-
-        //for bootstrap 3 use 'shown.bs.tab' instead of 'shown' in the next line
-        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-        //save the latest tab; use cookies if you like 'em better:
-            localStorage.setItem('selectedTab', $(e.target).attr('id'));
-        });
-
-        //go to the latest tab, if it exists:
-        var selectedTab = localStorage.getItem('selectedTab');
-        if (selectedTab) {
-            $('#'+selectedTab).tab('show');
-        }
-        // 2안 jquery
-        $(document).ready(function(){
-            var link = document.location.href;
-            var tab = link.split('/').pop();
-            $('a[href$='+tab+']').trigger('click');
-        });
-    </script>
 <body>
 <!--    <button type="button" class="btn btn-primary">프로젝트 조회</button>-->
 <!--    <button type="button" class="btn btn-primary">직원 조회</button>-->
@@ -353,6 +330,7 @@
         </form>
         <div th:replace="fragments/footer :: footer" />
     </div>
+</div>
 </div>
 </body>
 </html>
