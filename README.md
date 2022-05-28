@@ -1,5 +1,10 @@
 ## 사내 프로그램 개발 
-### ER- Modeling 
+### ER- Modeling
+
+<img width="499" alt="스크린샷 2022-05-28 오후 3 37 41" src="https://user-images.githubusercontent.com/66197538/170813700-8bbb87aa-4209-47fa-a980-afa4cf39b853.png">
+
+<img width="492" alt="스크린샷 2022-05-28 오후 3 38 10" src="https://user-images.githubusercontent.com/66197538/170813721-35d45733-8940-4898-ab04-7e061aef14ec.png">
+
 
 #### V1. ERD 
 <img width="1228" alt="스크린샷 2022-04-10 오후 12 31 47" src="https://user-images.githubusercontent.com/66197538/162600329-d7a0ee8a-112d-4397-80aa-98f7bf76e1a1.png">
