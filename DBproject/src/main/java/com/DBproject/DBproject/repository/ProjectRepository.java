@@ -62,7 +62,7 @@ public class ProjectRepository {
     }
 
     public List<Project> findAll(){
-        return em.createQuery("select p from Project p left join fetch p.works_fors order by p.end_date desc ", Project.class)
+        return em.createQuery("select distinct p from Project p left join fetch p.works_fors order by p.end_date desc ", Project.class)
                 .getResultList();
     }
 
