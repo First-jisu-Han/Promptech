@@ -15,6 +15,11 @@
 #### V3. ERD 
 ![스크린샷 2022-04-14 오후 7 00 15](https://user-images.githubusercontent.com/66197538/163362436-5052ce79-5653-4d7f-a248-fa1882563687.png)
 
+#### Architecture
+
+<img width="987" alt="스크린샷 2022-05-30 오후 3 36 46" src="https://user-images.githubusercontent.com/66197538/170936463-0e88cf4a-77d8-4ff1-9846-6e829e5de4f5.png">
+
+
 
 ##### V3. DB설계서 2022.04.18 -
 
