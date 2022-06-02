@@ -27,3 +27,7 @@
 
 ##### 요구사항 10개 이상 구현 완료 - 05.25 마무리 
 <img width="856" alt="스크린샷 2022-05-25 오전 12 15 44" src="https://user-images.githubusercontent.com/66197538/170071326-44a3538e-7a0b-4954-b9a9-6b0e7281506a.png">
+
+##### 인덱스 - 쿼리최적화이론 적용 
+employee_id는 자동 index 걸려있음 -> 일반키 login_id, password에 index를 걸어보고 시험하기 위해 20만개 데이터 생성 후 비교: 2배의 시간이 줄음 
+<img width="949" alt="스크린샷 2022-06-03 오전 1 52 49" src="https://user-images.githubusercontent.com/66197538/171683294-1f27da4f-52ab-4b24-a3b2-b1c79be16e23.png">
