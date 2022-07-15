@@ -15,6 +15,13 @@
 #### V3. ERD 
 ![스크린샷 2022-04-14 오후 7 00 15](https://user-images.githubusercontent.com/66197538/163362436-5052ce79-5653-4d7f-a248-fa1882563687.png)
 
+#### V4. ERD
+<img width="878" alt="스크린샷 2022-07-16 오전 12 51 05" src="https://user-images.githubusercontent.com/66197538/179260166-ed8b2aad-7a4f-4d33-9db9-e4c4f823bdd3.png">
+
+
+#### CRUD MATRIX 
+<img width="727" alt="스크린샷 2022-07-16 오전 12 38 31" src="https://user-images.githubusercontent.com/66197538/179260053-939f80b1-93d5-4c29-ab0a-48e6e5b63dd5.png">
+
 #### Architecture
 
 <img width="987" alt="스크린샷 2022-05-30 오후 3 36 46" src="https://user-images.githubusercontent.com/66197538/170936463-0e88cf4a-77d8-4ff1-9846-6e829e5de4f5.png">
